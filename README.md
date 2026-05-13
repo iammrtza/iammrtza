@@ -10,26 +10,16 @@ PhD in Quantitative RNA Biology from Stockholm University
 
 ---
 
-<table>
-<tr>
-<td>
-
-## — About Me —
+## About Me
 
 🧬 Bioinformatician with a background in quantitative RNA biology  
 🔬 Experienced in transcriptomics and single-cell data analysis  
 📊 Working with scRNA-seq, RNA-seq, and computational biology workflows  
 📍 Based in Stockholm, Sweden  
 
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td>
-
-## — Research Experience —
+## Research Experience
 
 ### Previous Research
 
@@ -45,23 +35,23 @@ PhD in Quantitative RNA Biology from Stockholm University
 - Comparative transcriptomic analyses
 - Bioinformatics workflow development
 
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td>
-
-## — GitHub Stats —
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iammrtza&show_icons=true&theme=tokyonight" />
 </p>
 
-</td>
-</tr>
-</table>
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+</p>
+
+---
 
 <p align="center">
 Exploring biological systems through computational and transcriptomic analysis.
