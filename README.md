@@ -5,7 +5,7 @@ Bioinformatician • Computational Biology • Single-cell Transcriptomics
 </p>
 
 <p align="center">
-PhD in Quantitative RNA Biology from Stockholm University
+PhD in Quantitative RNA Biology from Stockholm University • Currently working as a Bioinformatician at Karolinska Institutet
 </p>
 
 ---
@@ -40,7 +40,7 @@ PhD in Quantitative RNA Biology from Stockholm University
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrtza&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iammrtza&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ PhD in Quantitative RNA Biology from Stockholm University
 ## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="www.linkedin.com/in/morteza-aslanzadeh">LinkedIn</a>
 </p>
 
 ---
