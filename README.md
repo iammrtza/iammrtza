@@ -35,5 +35,5 @@ Previous Research
 ```
 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/morteza-aslanzadeh)
+LinkedIn: https://www.linkedin.com/in/morteza-aslanzadeh
 ```
