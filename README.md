@@ -8,50 +8,36 @@ Bioinformatician • Computational Biology • Single-cell Transcriptomics
 PhD in Quantitative RNA Biology from Stockholm University • Currently working as a Bioinformatician at Karolinska Institutet
 </p>
 
----
 
-## About Me
+# About Me
 
 🧬 Bioinformatician with a background in quantitative RNA biology  
 🔬 Experienced in transcriptomics and single-cell data analysis  
 📊 Working with scRNA-seq, RNA-seq, and computational biology workflows  
 📍 Based in Stockholm, Sweden  
 
----
 
-## Research Experience
-
-### Previous Research
+# Previous Research
 
 - microRNA and lncRNA biology
 - Evolutionary analysis of microRNA features
 - Transcriptomic and regulatory analyses
 - Splicing analysis
 
-### Current Work
+# Current Work
 
 - Single-cell transcriptomics in human adipose tissue
 - Mass spectrometry data analysis
 - Comparative transcriptomic analyses
 - Bioinformatics workflow development
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iammrtza&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="www.linkedin.com/in/morteza-aslanzadeh">LinkedIn</a>
 </p>
 
----
 
 <p align="center">
 Exploring biological systems through computational and transcriptomic analysis.
