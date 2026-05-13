@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Morteza</h1>
 
-<!--
-**iammrtza/iammrtza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Bioinformatician • Computational Biology • Single-cell Transcriptomics
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+PhD in Quantitative RNA Biology from Stockholm University
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+🧬 Bioinformatician with a background in quantitative RNA biology  
+🔬 Experienced in transcriptomics and single-cell data analysis  
+📊 Working with scRNA-seq, RNA-seq, and computational biology workflows  
+📍 Based in Stockholm, Sweden  
+
+---
+
+## Research Experience
+
+### Previous Research
+- microRNA and lncRNA biology
+- Evolutionary analysis of microRNA features
+- Transcriptomic and regulatory analyses
+- Splicing analysis
+
+### Current Work
+- Single-cell transcriptomics in human adipose tissue
+- Mass spectrometry data analysis
+- Comparative transcriptomic analyses
+- Bioinformatics workflow development
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+Exploring biological systems through computational and transcriptomic analysis.
+</p>
