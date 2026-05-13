@@ -34,11 +34,5 @@ PhD in Quantitative RNA Biology from Stockholm University • Currently working 
 
 # Connect With Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/morteza-aslanzadeh">LinkedIn</a>
-</p>
+LinkedIn: [Morteza Aslanzadeh](https://www.linkedin.com/in/morteza-aslanzadeh)
 
-
-<p align="center">
-Exploring biological systems through computational and transcriptomic analysis.
-</p>
