@@ -35,5 +35,5 @@ Current Work
 ```text
 Connect With Me
 
-LinkedIn: [Morteza Aslanzadeh](https://www.linkedin.com/in/morteza-aslanzadeh)
+[LinkedIn]:(https://www.linkedin.com/in/morteza-aslanzadeh)
 ```
