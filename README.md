@@ -25,15 +25,17 @@ Previous Research
 - Splicing analysis
 ```
 ```
- Current Work
+Current Work
 
 - Single-cell transcriptomics in human adipose tissue
 - Mass spectrometry data analysis
 - Comparative transcriptomic analyses
 - Bioinformatics workflow development
 ```
-```
+```text
 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/morteza-aslanzadeh
+LinkedIn
 ```
+
+[Morteza Aslanzadeh](https://www.linkedin.com/in/morteza-aslanzadeh)
