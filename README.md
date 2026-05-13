@@ -32,8 +32,8 @@ Current Work
 - Comparative transcriptomic analyses
 - Bioinformatics workflow development
 ```
-```text
+```
 Connect With Me
 
-[LinkedIn]:(https://www.linkedin.com/in/morteza-aslanzadeh)
+[`LinkedIn`](https://www.linkedin.com/in/morteza-aslanzadeh)
 ```
