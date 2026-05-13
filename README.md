@@ -33,6 +33,4 @@ Current Work
 - Bioinformatics workflow development
 ```
 
-### Connect With Me
-
 LinkedIn: [Morteza Aslanzadeh](https://www.linkedin.com/in/morteza-aslanzadeh)
