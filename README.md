@@ -35,5 +35,6 @@ Previous Research
 ```
 Connect With Me
 
-LinkedIn: [Morteza Aslanzadeh](https://www.linkedin.com/in/morteza-aslanzadeh)
+LinkedIn: <a href="https://www.linkedin.com/in/morteza-aslanzadeh">Morteza Aslanzadeh</a>
+
 ```
