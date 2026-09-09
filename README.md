@@ -28,7 +28,7 @@ Previous Research
 Current Work
 
 - Single-cell transcriptomics in human adipose tissue
-- Mass spectrometry data analysis
+- Mass spectrometry and Lipidomics data analysis
 - Comparative transcriptomic analyses
 - Bioinformatics workflow development
 ```
